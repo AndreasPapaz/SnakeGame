@@ -1,2 +1,2 @@
 # SnakeGame
-javascript snake game
+javascript snake game using p5.js
